@@ -1,8 +1,10 @@
 # Mailgun tag for Google Tag Manager Server Side
 
-Allow sending an email and create/update contacts.
+To simplify Mailgun integration with your website, we created a Mailgun tag for the server Google Tag Manager container that enables you to send transactional emails using customer actions on your site.
 
-### Description TBD
+Send emails in bulk or deliver transactional emails.
+Create/update contacts.
+
 
 ## Open Source
 
