@@ -5,6 +5,8 @@ To simplify Mailgun integration with your website, we created a Mailgun tag for 
 Send emails in bulk or deliver transactional emails.
 Create/update contacts.
 
+## Useful link:
+- https://stape.io/blog/mailgun-tag-for-server-google-tag-manager 
 
 ## Open Source
 
